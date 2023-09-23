@@ -1,0 +1,7 @@
+# 以下にジョブを記載してください
+# 例:
+# jobs:
+#   - name: sampleJob
+#     src: '~/Download'
+#     dst: '~/Upload'
+#     schedule: '0 0 * * *' # cron形式で記載
